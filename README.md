@@ -1,2 +1,2 @@
-# WebPage
-Webpage Created by HTML &amp; CSS
+# webpage
+This is practice
